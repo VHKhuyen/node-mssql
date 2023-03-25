@@ -1,0 +1,12 @@
+﻿{
+    "dbName": "fastfood",
+    "dbConfig": {
+        "server": "VHKhuyen\\SQLEXPRESS",
+        "options": {
+            "encrypt": true
+        },
+        "authentication": {
+            "type": "windows"
+        }
+    }
+}
