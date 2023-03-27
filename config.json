@@ -1,0 +1,16 @@
+{
+    "server": "localhost",
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "vukhuyen",
+            "password": "vukhuyen"
+        }
+    },
+    "options": {
+        "port": 1433,
+        "trustServerCertificate": true,
+        "encrypt": false,
+        "database": "fastfood"
+    }
+}

@@ -1,3 +1,3 @@
-# node-mssql-crud-api
+# node-mssql
 
-Node.js + MS SQL Server - CRUD API Example
+Node.js + MS SQL Server
